@@ -3,7 +3,7 @@
 
 `"Ha már Mesterséges Intelligenciát használsz magyar szöveg készítésére, legalább tedd úgy, mint akinek van esze. (Mondod te a modellnek, melyet alkalmazol)"`
 
-Ez a SKILL Fable 5-el készült, összesen 15M token van mögötte, és még mindig jobb ha belematatsz az AI generált szövegbe, de ezzel valószínűleg jobb eredményt érsz el mint nélküle, még akár Fable 5 és GPT 5.6 esettében is. Sonnet 5, Opus 4.8, GLM 5.2, Kimi 2.7 és DeepSeek V4 simán megbírja és velük is lehet közel végleges szöveget készíteni MI-val.
+Ez a SKILL Fable 5-el készült, összesen 15M token van mögötte, és még mindig jobb, ha te is belematatsz az AI generált szövegbe, de ezzel valószínűleg jobb eredményt érsz el mint nélküle. Még akár Fable 5 és GPT 5.6 esettében is. Sonnet 5, Opus 4.8, GLM 5.2, Kimi 2.7 és DeepSeek V4 simán megbírja és ezekkel a modellekkel is lehet közel végleges MI szöveget készíteni a SKILL alkalmazásával.
 
 Translate English to Hungarian and Hungarian to English the way a native writes, not the way a dictionary maps words. A drop-in [Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for Claude, Claude Code, Codex, and any agent that reads the Agent Skills format.
 
