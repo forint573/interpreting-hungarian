@@ -24,7 +24,7 @@ Traps a strong model walks into unaided — the middle column is the instinctive
 | I like your dress. | Szeretem a ruhádat. | **Tetszik a ruhád.** |
 | I can't help laughing. | Nem tudok segíteni nevetve. | **Muszáj nevetnem.** |
 | Mistakes were made. | Hibák lettek elkövetve. | **Hibákat követtek el.** |
-| "Come in," said Peter. | „Gyere be," mondta Péter. | **– Gyere be – mondta Péter.** |
+| "Come in," said Peter. | "Gyere be," mondta Péter. | **– Gyere be – mondta Péter.** |
 | a $5 billion deal | 5 billió dolláros üzlet *(1000× off)* | **5 milliárd dolláros üzlet** |
 
 **Hungarian → English**
@@ -33,13 +33,13 @@ Traps a strong model walks into unaided — the middle column is the instinctive
 |-----------|----------------------|--------|
 | Két éve láttam. | I've seen him for two years. | **I saw him two years ago.** |
 | Már két éve itt lakom. | I live here since two years. | **I've lived here for two years.** |
-| Anna alszik, Péter pedig olvas. | Anna sleeps, Peter however reads. | **Anna is sleeping, while Peter is reading.** |
+| Anna alszik, Péter pedig olvas. | Anna is sleeping, Peter however is reading. | **Anna is sleeping, while Peter is reading.** |
 | PÉTER ette meg az almát. | Peter ate the apple. *(emphasis lost)* | **It was Peter who ate the apple.** |
 | Senki nem segít. | Nobody doesn't help. | **Nobody helps.** |
 | Öten voltunk. | We were five. | **There were five of us.** |
 | Azt hiszem, hogy jó. | I think, that it is good. | **I think it's good.** |
 | Nagy Éva felhívott. | Nagy Éva called me. | **Éva Nagy called me.** |
-| ötmilliárd forint | five billiard forints | **five billion forints** |
+| ötmilliárd forint | five milliard forints | **five billion forints** |
 
 Beyond the traps, the skill covers the full system: topic–focus word order, definite vs. indefinite conjugation, coverb aspect, case suffixes, register (te/ön) and its English compensation, relative pronouns, false friends both ways, literary norms (dialogue dashes, no tense backshift, names, titles, form-faithful verse), domain conventions (software UI, Netflix-style subtitles, marketing, plain-language official prose), and punctuation/date/number conventions in both directions. It works as a **diagnostic, not a checklist** — it names over-correction as a failure mode, so already-natural sentences are left alone. And it restores what translated Hungarian statistically lacks (*szokott*, *-lak/-lek*, *hadd*, particles, diminutives): the source text never prompts them, natives use them anyway.
 
